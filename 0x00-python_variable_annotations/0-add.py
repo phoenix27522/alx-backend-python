@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""task add"""
+
 
 def add(a: float, b: float) -> float:
     """
